@@ -1,7 +1,6 @@
 import argparse
 from pathlib import Path
 import markdown2
-import jinja2
 import os
 import shutil
 
